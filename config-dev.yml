@@ -1,2 +1,4 @@
+server:
+  port: 3344
 config: 
-  info: this is a dev config  version = 5201314
+  info: this is a dev config  version = 5201314AAA

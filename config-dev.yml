@@ -1,4 +1,4 @@
 config: 
-  info: "this is a dev config  version = 5233
+  info: this is a dev config  version = 5233
 server:
   port: 5033
